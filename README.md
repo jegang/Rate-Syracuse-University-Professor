@@ -20,4 +20,4 @@ it will hold the data of all the professors.
 
 ## Author
 [Jegan Gopalakrishnan](https://www.linkedin.com/in/jegang/)
-[Ramakrishna Sayee Meka(https://www.linkedin.com/in/ramakrishnasayee/)
+[Ramakrishna Sayee Meka](https://www.linkedin.com/in/ramakrishnasayee/)
