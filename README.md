@@ -16,3 +16,8 @@ account and see the bio of professors and ratings provided by professors.
 
 * This is a sample version of the application. Hence it doesnot have info of all the SU professors. Later when the application is launched,
 it will hold the data of all the professors.
+
+
+## Author
+[Jegan Gopalakrishnan](https://www.linkedin.com/in/jegang/)
+[Ramakrishna Sayee Meka(https://www.linkedin.com/in/ramakrishnasayee/)
